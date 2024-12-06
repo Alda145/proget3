@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "checked": true,
+      "item": "Pizza"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "Bread"
+    },
+    {
+      "id": "31",
+      "checked": true,
+      "item": "banana"
+    },
+    {
+      "id": "311",
+      "checked": false,
+      "item": "apple "
+    },
+    {
+      "id": "3111",
+      "checked": false,
+      "item": "luleshtrydhe"
+    },
+    {
+      "id": "31111",
+      "checked": false,
+      "item": "kivi"
+    }
+  ]
+}
